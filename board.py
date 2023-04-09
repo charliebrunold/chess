@@ -44,11 +44,3 @@ class Board():
                            
     def __repr__(self):
         return (f"Board[board={self.board}]")
-
-def main():
-    new_board = Board("White")
-    new_board.display_coordinates()
-    new_board.display_gamestate()
-
-if __name__ == "__main__":
-    main()
