@@ -1,2 +1,2 @@
 # chess
-A completely original chess clone to practice programming fundamentals
+My first solo project: A completely original chess clone in order for me to improve my programming fundamentals
