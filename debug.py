@@ -10,7 +10,13 @@ from board import *
 from pieces import *
 
 def main():
-    pass
+    test_board = Board("white")
+    test_board.display_coordinates()
+    test_board.display_gamestate()
+    test_board.initialize_game()
+    print()
+    test_board.display_gamestate()
+
 
 if __name__ == "__main__":
     main()
